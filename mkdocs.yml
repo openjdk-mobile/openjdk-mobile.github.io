@@ -1,0 +1,35 @@
+site_name: Java on Mobile
+site_url: https://openjdk-mobile.github.io
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+    - search.share
+
+nav:
+  - Home: index.md
+  - Mission: mission.md
+  - OpenJDK/mobile: openjdk-mobile.md
+  - Architecture: architecture.md
+  - Platforms: platforms.md
+  - iOS: ios.md
+  - Android: android.md
+  - Issues: issues.md
+  - Roadmap: roadmap.md
+  - Contributing: contributing.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+  - def_list
+
+plugins:
+  - search
+
