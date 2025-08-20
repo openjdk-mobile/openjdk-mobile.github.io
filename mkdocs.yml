@@ -4,10 +4,12 @@ theme:
   name: material
   features:
     - navigation.expand
-    - navigation.sections
     - content.code.copy
     - search.highlight
     - search.share
+
+extra_css:
+  - css/extra.css
 
 nav:
   - Home: index.md
@@ -15,7 +17,11 @@ nav:
   - OpenJDK/mobile: openjdk-mobile.md
   - Architecture: architecture.md
   - Platforms: platforms.md
-  - iOS: ios.md
+  - iOS:
+    - goals: ios.md
+    - HelloWorld.jar: ios/helloworld.md
+    - JavaFX apps: ios/javafx.md
+    - Java libraries: ios/library.md
   - Android: android.md
   - Issues: issues.md
   - Roadmap: roadmap.md

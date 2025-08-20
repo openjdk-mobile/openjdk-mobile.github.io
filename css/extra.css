@@ -1,0 +1,4 @@
+/* make nested nav items more indented */
+.wy-menu-vertical li ul {
+    margin-left: 15px;  /* increase indent */
+}
