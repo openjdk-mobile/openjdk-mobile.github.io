@@ -14,3 +14,8 @@
 - Classloaders, basic reflection, and standard library calls succeed.
 - Artifact is reproducible and integrated into CI for regression detection.
 
+## Steps to get it working
+
+- First, you need a build of OpenJDK/mobile. You can download one, or you can build it yourself. The 
+information on how to build it is avaiable [in the ios-tools repo](https://https://github.com/openjdk-mobile/ios-tools/blob/main/docs/ga.md)
+- Next steps: TODO
