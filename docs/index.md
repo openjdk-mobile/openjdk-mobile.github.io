@@ -11,7 +11,7 @@ We focus on two main use cases:
 - **Java libraries on mobile** – Allow developers to take existing Java libraries and convert them into fully supported components on mobile platforms.
 - **Java applications on mobile** – Enable developers to write full mobile applications in Java, including JavaFX-based apps.
 
-> ⚠️ Note: This is not yet a tutorial for building mobile apps in Java. The goal is to build the infrastructure that makes it possible. We hope contributors will help fill the remaining gaps.
+> ⚠️ Note: This is not (yet) a tutorial for building mobile apps in Java. The goal is rather to build the infrastructure that makes it possible. We try to document all required steps in detail, and we hope that more contributors will join this project.
 
 From here, you can explore:
 
