@@ -21,6 +21,17 @@ By adhering to these principles, we aim to create a sustainable ecosystem where:
 - Mobile platforms gain robust, maintainable Java support.
 - Contributions are guided by clear philosophy rather than ad hoc decisions.
 
+## Improving step by step
+
+It is often tempting to create a nice, impressive, visually attractive demo to showcase the potential of a project. Especially with JavaFX on iOS, a demo of a polished JavaFX application running on an iPhone can convince many developers and non-developers alike that there are exciting possibilities.
+
+While that is certainly true, there is a huge difference between a demo created by a single team with many years of experience—who know the ins and outs of the components—and a mature, stable, well-documented project that enables any Java developer to build a compelling Java application on iOS.
+
+In this project, we move forward in small, documented, and maintainable steps. From past experience, we have learned that maintainability is a key factor for success. Especially with fast-moving components, the challenge is not merely to create something that works today, but to ensure it continues to work in the future, as most components inevitably evolve (e.g., a new version of iOS/Android, a new JVM, a new AOT compiler, or new external deployment tools).
+
+While this approach may look less flashy, we are convinced that the strong, documented, and maintainable foundations we are building will lead to better results and greater developer appreciation in the long run.
+
+
 ## Managing Complexity
 
 The OpenJDK project itself is complex, and a mobile operating system with its ecosystem and specific requirements is complex as well. When complex components need to work together or be integrated, overall complexity increases, and maintenance costs can rise sharply. To keep the system maintainable and reliable, we aim to minimize the number of components and the number of build tools, ensuring a lean and coherent architecture.
