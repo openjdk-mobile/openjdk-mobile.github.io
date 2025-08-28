@@ -18,7 +18,7 @@ nav:
   - Architecture: architecture.md
   - Platforms: platforms.md
   - iOS:
-    - goals: ios.md
+    - Goals: ios.md
     - HelloWorld.jar: ios/helloworld.md
     - JavaFX apps: ios/javafx.md
     - Java libraries: ios/library.md
