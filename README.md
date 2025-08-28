@@ -28,6 +28,8 @@ This site is built with [MkDocs](https://www.mkdocs.org/) and the [Material for 
 - `pip`
 
 ### Install dependencies
+All dependencies for the project is defined in `requirements.txt` and can be installed using:
+
 ```bash
-pip install mkdocs-material
+pip install -r requirements.txt
 
