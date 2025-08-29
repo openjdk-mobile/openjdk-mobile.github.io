@@ -21,7 +21,7 @@ Focus is first on **libraries**, then on **applications**.
 
 ## 🚀 Building the Docs Locally
 
-This site is built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs theme](https://squidfunk.github.io/mkdocs-material/).
+This site is built with [MkDocs](https://www.mkdocs.org/).
 
 ### Prerequisites
 - Python 3.x  
