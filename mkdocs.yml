@@ -31,10 +31,15 @@ markdown_extensions:
   - toc:
       permalink: true
   - admonition
-  - codehilite
   - footnotes
   - tables
   - def_list
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
 
 plugins:
   - search
