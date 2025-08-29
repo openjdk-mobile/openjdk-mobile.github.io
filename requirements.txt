@@ -1,1 +1,2 @@
 mkdocs-shadcn
+mkdocs-awesome-nav
