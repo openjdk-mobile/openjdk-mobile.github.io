@@ -43,3 +43,8 @@ markdown_extensions:
 
 plugins:
   - search
+
+extra:
+  analytics:
+    provider: google
+    property: G-Q3JM0F6T5Y
