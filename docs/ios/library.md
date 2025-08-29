@@ -18,6 +18,7 @@ public class HelloLib {
     @ExportToNative("greet")
     public static String greet(String name) { return "Hello " + name; }
 }
+```
 
 would result in
 
