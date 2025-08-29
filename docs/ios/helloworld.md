@@ -16,6 +16,7 @@
 
 ## Steps to get it working
 
-- First, you need a build of OpenJDK/mobile. You can download one, or you can build it yourself. The 
-information on how to build it is avaiable [in the ios-tools repo](https://github.com/openjdk-mobile/ios-tools/blob/main/docs/ga.md)
-- Next steps: TODO
+- Running `helloworld` involves a number of steps described in the [ios-tools repo](https://github.com/openjdk-mobile/ios-tools/blob/main/docs/helloworld.md)
+- For each step you can choose to build (e.g. OpenJDK/mobile) yourself or download a build from the repo's releases
+
+> ⚠️ Note: Running on an iOS device is working properly. Running on a simulator is still [to be fixed](https://github.com/openjdk-mobile/ios-tools/issues/51).
