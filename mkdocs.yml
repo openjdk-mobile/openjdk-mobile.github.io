@@ -1,7 +1,7 @@
 site_name: Java on Mobile
 site_url: https://openjdk-mobile.github.io
 theme:
-  name: shadcn
+  name: material
   features:
     - navigation.expand
     - content.code.copy
@@ -38,4 +38,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - awesome-nav
