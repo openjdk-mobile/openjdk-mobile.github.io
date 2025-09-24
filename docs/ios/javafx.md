@@ -24,7 +24,7 @@ we will first build the OpenJFX code using the OpenJDK build system.
 
 Although, in theory, we only need to build OpenJFX for iOS and Android, using the same approach for 
 building OpenJFX on desktop platforms offers benefits. Work of this is ongoing in the
-https://github.com/organizations/openjdk-mobile repository
+https://github.com/openjdk-mobile/openjfx-build repository
 
 
 
